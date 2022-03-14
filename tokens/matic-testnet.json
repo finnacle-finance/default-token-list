@@ -1,7 +1,7 @@
 [
   {
     "name": "Dai Stablecoin",
-    "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
+    "address": "0x1ac7b60D5dDeB00DF64C992c8c760463250Ca158",
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 80001,
@@ -9,7 +9,7 @@
   },
   {
     "name": "Ether",
-    "address": "0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323",
+    "address": "0xe0695CD828B63C0E4b70fdD44d0f066560EE8CfE",
     "symbol": "ETH",
     "decimals": 18,
     "chainId": 80001,
@@ -17,7 +17,7 @@
   },
   {
     "name": "Tether USD",
-    "address": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
+    "address": "0x801FC386bd0a7998EE162ffF32b793D0624f3476",
     "symbol": "USDT",
     "decimals": 6,
     "chainId": 80001,
@@ -25,14 +25,14 @@
   },
   {
     "name": "Wrapped Matic",
-    "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+    "address": "0x37b2c89A2152E40841E022dD1044274e30aFe306",
     "symbol": "WMATIC",
     "decimals": 18,
     "chainId": 80001,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
   },
   {
-    "address": "0xE03489D4E90b22c59c5e23d45DFd59Fc0dB8a025",
+    "address": "0x10b6aC405CB39364D0493fa231926517E587E7c4",
     "chainId": 80001,
     "name": "The Sandbox",
     "symbol": "SAND",
