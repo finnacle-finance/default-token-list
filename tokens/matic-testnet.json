@@ -25,7 +25,7 @@
   },
   {
     "name": "Wrapped Matic",
-    "address": "0x37b2c89A2152E40841E022dD1044274e30aFe306",
+    "address": "0xe02f20BB33F8Bfb48eB907523435CA886e139A08",
     "symbol": "WMATIC",
     "decimals": 18,
     "chainId": 80001,
