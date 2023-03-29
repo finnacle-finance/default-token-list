@@ -1,0 +1,50 @@
+[
+    {
+      "chainId": 9001,
+      "address": "0xd040Db0292CD160b3Ffbd8a77BFbd4E81DDa2d4E",
+      "name": "0xUSDC",
+      "symbol": "0xUSDC",
+      "decimals": 6,
+      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
+    },
+    {
+        "chainId": 9001,
+        "address": "0x56319B93cc71952c11Cf0FF6b13Ba418614eB648",
+        "name": "0xUSDT",
+        "symbol": "0xUSDT",
+        "decimals": 6,
+        "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
+    },
+    {
+        "chainId": 9001,
+        "address": "0x41f67a991b687149f96D7C51B83D3Fc4125b6bC1",
+        "name": "0xCosmos",
+        "symbol": "0xATOM",
+        "decimals": 6,
+        "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
+    },
+    {
+        "chainId": 9001,
+        "address": "0xE6c5A550ca454DA95DB0051e4c713da32ed3e2Df",
+        "name": "0xOsmosis",
+        "symbol": "0xOSMO",
+        "decimals": 6,
+        "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
+    },
+    {
+        "chainId": 9001,
+        "address": "0xe404783FFe345CE3262200Ca14eE97e656b70F20",
+        "name": "0xWrappedEther",
+        "symbol": "0xWETH",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
+    },
+    {
+        "chainId": 9001,
+        "address": "0x7c4a1D38A755a7Ce5521260e874C009ad9e4Bf9c",
+        "name": "0xDaiStablecoin",
+        "symbol": "0xDAI",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
+    }
+  ]
