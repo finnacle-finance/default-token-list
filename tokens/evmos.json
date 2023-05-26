@@ -46,5 +46,29 @@
         "symbol": "0xDAI",
         "decimals": 18,
         "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
+    },
+    {
+        "chainId": 9001,
+        "address": "0x4944dC962693c7FC7aA6F3BbfC1e4f37cAaD57f1",
+        "name": "0xToken1",
+        "symbol": "0xTOK1",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
+    },
+    {
+        "chainId": 9001,
+        "address": "0x517F3150304b86970138749b6a538db5D02ce7fa",
+        "name": "0xToken2",
+        "symbol": "0xTOK2",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
+    },
+    {
+        "chainId": 9001,
+        "address": "0xD861F8E40BB476c7a7984E8015BF2E05FCd76B92",
+        "name": "0xToken3",
+        "symbol": "0xTOK3",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
     }
   ]
